@@ -41,19 +41,7 @@ The important part is the renderer: instead of calculating each pixel one-by-one
 
 ## Demo Video
 
-> Demo video placeholder: add the fractal exploration recording or GitHub uploaded video here.
-
-```md
-https://github.com/user-attachments/assets/your-demo-video-id
-```
-
-## Preview Space
-
-Add a screenshot or GIF here:
-
-```md
-<img width="900" alt="Fractal Explorer preview" src="YOUR_SCREENSHOT_URL_HERE" />
-```
+>i ll find some time for it one day :p
 
 ## Features
 
@@ -201,15 +189,9 @@ The iteration result is mapped through a small RGB color table, transposed into 
 
 ## Why I Built This
 
-> Write your personal note here.
+math was always and will always be my most adored subject , especially when its abt imaginary numbers , and i ve long heard abt the marlbrot and julia sets and took this chance to get to know them more , fun project ngl(yes the hardware was a bottleneck ...)
 
-Suggested direction:
 
-```md
-I built this because fractals are the perfect mix of math and visuals: tiny equations creating
-huge structures. The first version was too slow with per-pixel Python loops, so I rebuilt the
-renderer around NumPy arrays to make exploration feel more immediate.
-```
 
 ## Current Status
 
